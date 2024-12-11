@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @irandine
-- 👀 I’m interested in properly learning how the world of computers work!
-- 🌱 I’m currently learning CS50x.
+- 👋 Hi, I’m irandine
+- 👀 I’m interested in properly learning how computers and software work, and succesfully be able to write code
+- 🌱 I’m currently enrolled on EDX-CS50x 2024
 -..
 
 <!---
